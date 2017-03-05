@@ -11,6 +11,7 @@ public class GitClass {
 		System.out.println("1");
 		System.out.println("2");
 		System.err.println("3");
+		System.err.println("4");
 	}
 
 }
